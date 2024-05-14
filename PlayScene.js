@@ -36,7 +36,7 @@ export default class PlayScene extends Phaser.Scene
         // 2. Make Phaser recognize the tileset as the base for our layers
         //this.tiles = this.map.addTilesetImage('Mario Tiles');
         // 3. Create the background layer
-       // this.backgroundLayer = this.map.createLayer('Background', this.tiles, 0, 0);
+        //this.backgroundLayer = this.map.createLayer('Background', this.tiles, 0, 0);
         // 4. Create the ground abd decoration layers
         //this.groundLayer = this.map.createLayer('Ground', this.tiles, 0, 0);
 		//this.map.createLayer('Decorations', this.tiles, 0, 0);

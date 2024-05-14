@@ -12,9 +12,9 @@ const config = {
       default: "arcade",
       arcade: {
         // 6. Set gravity rules.
-        gravity: {
-        	y: 500
-        },
+        // gravity: {
+        // 	y: 500
+        // },
       }
     },
 };
